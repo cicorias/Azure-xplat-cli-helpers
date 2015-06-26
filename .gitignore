@@ -203,3 +203,6 @@ FakesAssemblies/
 
 #private files
 *.private
+
+
+/temp/*
